@@ -180,7 +180,7 @@ All offensive research:
 # 📫 Contact
 
 GitHub: https://github.com/Meng0la  
-LinkedIn: (coloque aqui seu link)
+LinkedIn: https://www.linkedin.com/in/gabriel-mengue-barros-b23447268/
 
 ---
 
