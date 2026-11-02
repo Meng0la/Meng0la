@@ -4,7 +4,7 @@
 
 **Cybersecurity · Secure Software · Automation · Industrial Systems**
 
-[**PROJECTS**](https://github.com/Meng0la?tab=repositories) · [**3D PORTFOLIO**](https://github.com/Meng0la/portfolio) · [**LINKEDIN**](https://www.linkedin.com/in/gabriel-mengue-barros-b23447268/)
+[**PROJECTS**](https://github.com/Meng0la?tab=repositories) · [**3D PORTFOLIO**](https://meng0la.github.io/portfolio/) · [**LINKEDIN**](https://www.linkedin.com/in/gabriel-mengue-barros-b23447268/)
 
 </div>
 
