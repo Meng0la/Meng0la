@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" role="img" aria-label="Pixel art animada de um pesquisador de cibersegurança digitando em uma estação com monitores e rede fictícia">
+<defs><pattern id="brick" width="40" height="20" patternUnits="userSpaceOnUse"><path d="M0 0H40M20 0V10M0 10H40M0 10V20M40 10V20" stroke="#1e2142" fill="none" stroke-width="1"/></pattern><filter id="gl"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect width="800" height="360" fill="#090e1e"/><rect width="800" height="360" fill="url(#brick)" opacity=".65"/>
+<rect x="14" y="26" width="205" height="235" fill="#101936" stroke="#6746b8" stroke-width="6"/><path d="M116 26V261M14 140H219" stroke="#463a7c" stroke-width="5"/>
+<g fill="#142447"><rect x="22" y="160" width="30" height="100"/><rect x="48" y="112" width="27" height="148"/><rect x="73" y="187" width="36" height="73"/><rect x="124" y="85" width="28" height="175"/><rect x="151" y="145" width="38" height="115"/></g>
+<g fill="#42c5e3"><path d="M27 176h7v7h-7zm20-40h7v7h-7zm15 13h7v7h-7zm66-49h7v7h-7zm22 66h7v7h-7zm18 22h7v7h-7z"/></g>
+<g stroke="#66bcea" stroke-width="3" stroke-dasharray="11 30" opacity=".65"><path d="M31 32V257"><animate attributeName="stroke-dashoffset" from="0" to="-41" dur="1.3s" repeatCount="indefinite"/></path><path d="M83 32V257"><animate attributeName="stroke-dashoffset" from="0" to="-41" dur="1.1s" repeatCount="indefinite"/></path><path d="M176 32V257"><animate attributeName="stroke-dashoffset" from="0" to="-41" dur=".9s" repeatCount="indefinite"/></path></g>
+<g transform="translate(290 29)">
+<rect x="0" y="0" width="220" height="125" rx="4" fill="#101a34" stroke="#42d9da" stroke-width="6"/>
+<rect x="8" y="8" width="204" height="109" fill="#0a1125"/>
+<g stroke="#48e7ad" stroke-width="4"><path d="M24 31h100M24 43h150M24 55h115M24 67h178M24 79h86M24 91h134" stroke-dasharray="17 8"><animate attributeName="stroke-dashoffset" from="0" to="-25" dur="2.4s" repeatCount="indefinite"/></path></g>
+<rect x="241" y="0" width="220" height="125" rx="4" fill="#101a34" stroke="#7f5cda" stroke-width="6"/><rect x="249" y="8" width="204" height="109" fill="#0a1125"/>
+<g stroke="#3cddc9" stroke-width="2" fill="none"><path d="M284 48 333 30 389 54 420 31M284 48 315 89 389 54 423 93M333 30 315 89 423 93"/></g>
+<g fill="#55e8d4"><rect x="278" y="42" width="12" height="12"/><rect x="327" y="24" width="12" height="12"/><rect x="383" y="48" width="12" height="12"/><rect x="309" y="83" width="12" height="12"/><rect x="417" y="87" width="12" height="12"/><rect x="416" y="25" width="12" height="12"/></g>
+<rect x="0" y="144" width="220" height="109" rx="4" fill="#101a34" stroke="#7752d6" stroke-width="6"/><rect x="8" y="152" width="204" height="93" fill="#0a1125"/>
+<text x="20" y="173" font-family="monospace" font-size="13" fill="#6be8e6">SIMULATED LAB</text><rect x="22" y="186" width="174" height="20" fill="none" stroke="#40dcdc" stroke-width="2"/><rect x="26" y="190" width="15" height="12" fill="#52ef95"><animate attributeName="width" values="15;160;15" dur="4s" repeatCount="indefinite"/></rect><text x="22" y="230" font-family="monospace" font-size="11" fill="#8f76ce">NETWORK / ANALYSIS / LOGS</text>
+<rect x="241" y="144" width="220" height="109" rx="4" fill="#101a34" stroke="#42d9da" stroke-width="6"/><rect x="249" y="152" width="204" height="93" fill="#0a1125"/>
+<g stroke="#43dca7" stroke-width="4"><path d="M263 227v-19M276 227v-29M289 227v-15M302 227v-39M315 227v-22M328 227v-33M341 227v-51M354 227v-22M367 227v-37M380 227v-55M393 227v-33M406 227v-44M419 227v-27M432 227v-48" stroke-dasharray="80" ><animate attributeName="opacity" values=".3;1;.45;1" dur="2s" repeatCount="indefinite"/></path></g>
+</g>
+<rect x="247" y="293" width="534" height="18" fill="#37234e"/><rect x="243" y="310" width="538" height="50" fill="#14152e"/>
+<path d="M48 311v-56l15-26 12-31 23-15 47 4 28 31 14 27 4 55 24 13v47H45Z" fill="#151329" stroke="#8555d8" stroke-width="6"/>
+<path d="M84 199l12-27 23-11 33 8 23 26-13 37-36 8-30-16Z" fill="#171b32" stroke="#6542a7" stroke-width="5"/>
+<path d="M126 208h30l10 14-9 25-22 3-10-15Z" fill="#c18b82"/><path d="M128 219h26" stroke="#0ae5d8" stroke-width="3"/>
+<path d="M158 255 230 281 287 278 302 295 272 309 205 294 170 300Z" fill="#25203d" stroke="#754ac9" stroke-width="5"/>
+<g fill="#c99083"><rect x="272" y="282" width="19" height="11"><animate attributeName="y" values="282;278;282" dur=".5s" repeatCount="indefinite"/></rect><rect x="290" y="286" width="17" height="10"><animate attributeName="y" values="286;282;286" dur=".63s" repeatCount="indefinite"/></rect></g>
+<path d="M301 300h159l-17 15H315Z" fill="#152d39" stroke="#29cfc5" stroke-width="5"/><g stroke="#4ce5ca" stroke-width="3" stroke-dasharray="7 6"><path d="M320 304h126M327 311h110"/></g>
+<rect x="660" y="282" width="87" height="12" fill="#25243e" stroke="#6a53b5" stroke-width="3"/>
+<text x="30" y="344" font-size="12" fill="#6fe0db" font-family="monospace">MENG0LA // AUTHORIZED LAB RESEARCH</text>
+<g fill="#4bffb5"><rect x="766" y="44" width="8" height="8"><animate attributeName="opacity" values="0;1;0" dur=".8s" repeatCount="indefinite"/></rect><rect x="766" y="62" width="8" height="8"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect></g>
+</svg>
