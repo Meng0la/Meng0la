@@ -35,18 +35,6 @@ I'm a cybersecurity student and software builder working across secure applicati
 
 ---
 
-### `01.5 / THE LAB`
-
-<div align="center">
-
-<img src="./assets/hacker-pixel-art.svg" alt="Cena pixel art animada de pesquisador de cibersegurança em laboratório fictício, com monitores, terminais e mapa de rede" width="100%" />
-
-<sub>Pixel art animada · Pesquisa de segurança em ambientes autorizados</sub>
-
-</div>
-
----
-
 ### `02 / SELECTED BUILDS`
 
 > Projetos reais. Problemas reais. Código, arquitetura, testes e aprendizado contínuo.
