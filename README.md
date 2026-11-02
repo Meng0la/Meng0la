@@ -99,7 +99,7 @@ Sem gráficos externos que possam desaparecer: veja a atividade diretamente na f
 - **[Contribution graph / GitHub activity](https://github.com/Meng0la?tab=overview&from=2026-01-01&to=2026-12-31)**
 - **[Public repositories](https://github.com/Meng0la?tab=repositories)**
 - **[Security projects](https://github.com/Meng0la/cyberlab-portfolio)**
-- **[Interactive portfolio source](https://github.com/Meng0la/portfolio)**
+- **[Interactive portfolio source](https://meng0la.github.io/portfolio/)**
 
 ---
 
